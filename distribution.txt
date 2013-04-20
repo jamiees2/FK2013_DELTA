@@ -1,0 +1,43 @@
+Fyrir hádegi
+Dæmi 1 - Hlynur
+Dæmi 2 - Hlynur
+Dæmi 3 - Hlynur
+Dæmi 4 - James
+Dæmi 5 - Hlynur
+Dæmi 6 - Hlynur
+Dæmi 7 - Hlynur
+Dæmi 8 - Hlynur
+Dæmi 9 - Hlynur
+Dæmi 10 - James
+Dæmi 11 - James
+Dæmi 12 - James
+Dæmi 13 - James
+Dæmi 14 - James
+Dæmi 15 - James
+Dæmi 16 - Hlynur
+Dæmi 17 - James
+Dæmi 18 - -
+
+Eftir hádegi
+Dæmi 1 - Hlynur
+Dæmi 2 - Hlynur
+Dæmi 3 - Hlynur
+Dæmi 4 - James
+Dæmi 5 - Hlynur
+Dæmi 6 - James
+Dæmi 7 - Hlynur
+Dæmi 8 - James
+Dæmi 9 - James
+Dæmi 10 - Hlynur
+Dæmi 11 - James
+Dæmi 12 - -
+Dæmi 13 - James
+Dæmi 14 - Hlynur
+Dæmi 15 - James
+Dæmi 16 - Hlynur
+Dæmi 17 - James
+Dæmi 18 - -
+
+Samtals: 33/36
+Hlynur: 17
+James: 16
